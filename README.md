@@ -5,8 +5,8 @@ Sheon project:
 - [Client](#)   (ECS, UDP Connection, Multi-threading, OpenGL, GLFW)
 - [API Rest](#) (User identificaion,  Game updating)
 - [Updater](#)  (Update server / client)
-- [Lib](https://github.com/julian-hemmer/SheonLib) (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Hashmap, Math)
-- [Assets](https://github.com/julian-hemmer/SheonAssets)
+- [Lib](https://github.com/SheonGame/SheonLib) (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Hashmap, Math)
+- [Assets](https://github.com/SheonGame/SheonAssets)
 
 ## Documentation
 
