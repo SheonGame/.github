@@ -1,12 +1,32 @@
 # Sheon
 
-Sheon project:
-- [Server](#)   (ECS, UDP Connection, Multi-threading)
-- [Client](#)   (ECS, UDP Connection, Multi-threading, OpenGL, GLFW)
-- [API Rest](#) (User identificaion,  Game updating)
-- [Updater](#)  (Update server / client)
-- [Lib](https://github.com/SheonGame/SheonLib) (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Hashmap, Math)
-- [Assets](https://github.com/SheonGame/SheonAssets)
+## Introduction
+Sheon project is a home made video game project.  
+This project is made to learn advanced C programing, a lot of things is / will be remade from scratch for this purpose.
+
+## Project Description
+
+### [**{}**](#) Server
+***WIP***
+
+### [**{}**](#) Client
+***WIP***
+
+### [**{}**](#) API Rest
+***WIP***
+
+### [**{}**](#) Updater
+***WIP***
+
+### [**{}**](https://github.com/SheonGame/graoully) Graoully: 
+Advanced .shd file editor.
+
+### [**{}**](https://github.com/SheonGame/SheonLib) Lib:
+Repository containing a lot of usefull lib used in all Sheon project.  
+List: (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Hashmap, Math)
+
+### [**{}**](https://github.com/SheonGame/SheonAssets) Assets
+Repository containing a lot of assets of Sheon.
 
 ## Documentation
 
