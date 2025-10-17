@@ -1,24 +1,26 @@
 # Sheon
 
 Sheon project:
-- Server   (ECS, UDP Connection, Multi-threading)
-- Client   (ECS, UDP Connection, Multi-threading, OpenGL, GLFW)
-- API Rest (User identificaion,  Game updating)
-- Updater  (Update server / client)
-- Lib (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Math)
+- [Server](#)   (ECS, UDP Connection, Multi-threading)
+- [Client](#)   (ECS, UDP Connection, Multi-threading, OpenGL, GLFW)
+- [API Rest](#) (User identificaion,  Game updating)
+- [Updater](#)  (Update server / client)
+- [Lib](https://github.com/julian-hemmer/SheonLib) (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Hashmap, Math)
 - [Assets](https://github.com/julian-hemmer/SheonAssets)
 
 ## Documentation
 
-Server: [Server documentation](./source/server/README.md)  
-Client: [Client documentation](./source/client/README.md)  
+Server: [Server documentation](#)  
+Client: [Client documentation](#)  
 Libraries:
-[Util](./source/util/README.md),
-[Vector](./source/vector/README.md),
-[SHD](./source/shd/README.md),
-[Linkedlist](./source/linkedlist/README.md),
-[Hashset](#),
-[Queue](#),
+[Util](https://github.com/SheonGame/SheonLib/blob/master/util/README.md),
+[Vector](https://github.com/SheonGame/SheonLib/blob/master/vector/README.md),
+[SHD](https://github.com/SheonGame/SheonLib/blob/master/shd/README.md),
+[Linkedlist](https://github.com/SheonGame/SheonLib/blob/master/linkedlist/README.md),
+[Hashset](https://github.com/SheonGame/SheonLib/blob/master/hashset/README.md),
+[Queue](https://github.com/SheonGame/SheonLib/blob/master/queue/README.md),
+[Iterator](https://github.com/SheonGame/SheonLib/blob/master/iterator/README.md),
+[HashMap](#),
 [Math](#)
 
 ## Teams
