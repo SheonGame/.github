@@ -25,7 +25,8 @@ Libraries:
 
 ## Teams
 
-[<img src="https://avatars.githubusercontent.com/u/183355320?" title="Julian   | Dev, Lore, Assets" width="100"/>](https://github.com/julian-hemmer)
-[<img src="https://avatars.githubusercontent.com/u/183359286?" title="Gauthier | Lore, Assets" width="100"/>](https://github.com/GauthierMalfilatre)
-[<img src="https://avatars.githubusercontent.com/u/183359645?" title="Victor   | Lore" width="100"/>](https://github.com/VictorZEpitech)  
+[<img src="https://avatars.githubusercontent.com/u/183355320?" title="Julian | Dev, Lore, Assets" width="100"/>](https://github.com/julian-hemmer)
+[<img src="https://avatars.githubusercontent.com/u/183359286?" title="Gauthier | Dev, Lore, Assets" width="100"/>](https://github.com/GauthierMalfilatre)
+[<img src="https://avatars.githubusercontent.com/u/183359645?" title="Victor | Lore" width="100"/>](https://github.com/VictorZEpitech)  
+[<img src="https://avatars.githubusercontent.com/u/183362996?" title="Martin | Lore" width="100"/>](https://github.com/Martin-Matin-Muller)  
 <sup>Hover for more information | Last update: 10/11/2025</sup>
