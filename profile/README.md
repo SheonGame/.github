@@ -23,7 +23,7 @@ Advanced .shd file editor.
 
 ### [**{}**](https://github.com/SheonGame/SheonLib) Lib:
 Repository containing a lot of usefull lib used in all Sheon project.  
-List: (Util, Vector, SHD, Linkedlist, Hashset, Queue, Iterator, Hashmap, Math)
+List: (Util, Vector, SHD, Linkedlist, Hashset, Deque, Iterator, Hashmap, Math)
 
 ### [**{}**](https://github.com/SheonGame/SheonAssets) Assets
 Repository containing a lot of assets of Sheon.
@@ -38,7 +38,7 @@ Libraries:
 [SHD](https://github.com/SheonGame/SheonLib/blob/master/shd/README.md),
 [Linkedlist](https://github.com/SheonGame/SheonLib/blob/master/linkedlist/README.md),
 [Hashset](https://github.com/SheonGame/SheonLib/blob/master/hashset/README.md),
-[Queue](https://github.com/SheonGame/SheonLib/blob/master/queue/README.md),
+[Deque](https://github.com/SheonGame/SheonLib/blob/master/deque/README.md),
 [Iterator](https://github.com/SheonGame/SheonLib/blob/master/iterator/README.md),
 [HashMap](#),
 [Math](#)
