@@ -40,7 +40,7 @@ Libraries:
 [Hashset](https://github.com/SheonGame/SheonLib/blob/master/hashset/README.md),
 [Deque](https://github.com/SheonGame/SheonLib/blob/master/deque/README.md),
 [Iterator](https://github.com/SheonGame/SheonLib/blob/master/iterator/README.md),
-[HashMap](https://github.com/SheonGame/SheonLib/blob/master/hashmap/README.md),
+[Hashmap](https://github.com/SheonGame/SheonLib/blob/master/hashmap/README.md),
 [Math](#)
 
 ## Teams
